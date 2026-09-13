@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+*.py text
+*.md text
+*.yml text
+*.yaml text
+Dockerfile text
+pytest.ini text
+requirements.txt text
